@@ -6,9 +6,13 @@ I will try to get a new story every Saturday.
 
 For support consider [gratipay](http://gratipay.com/rezoner/) 
 
-I am a bit nervous about this project. Tell me what you think - on [twitter](http://twitter.com) or rezoner1337[at]gmail.com
+Let me know what you think - on [twitter](http://twitter.com) or rezoner1337[at]gmail.com
 
 <img src="http://i.imgur.com/XCCzd6f.png">
+
+## More languages
+
+If you are an experienced developer I encourage you to copy my graphics and stories and adopt them for your favorite language and/or stack. There is nothing wrong in having 10 examples in the same language for different frameworks/solutions.
 
 ## Motivation
 
