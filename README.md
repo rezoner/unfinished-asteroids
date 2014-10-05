@@ -6,7 +6,7 @@ I will try to get a new story every Saturday.
 
 For support consider [gratipay](http://gratipay.com/rezoner/) 
 
-Let me know what you think - on [twitter](http://twitter.com) or rezoner1337[at]gmail.com
+Let me know what you think - on [twitter](http://twitter.com/rezoner) or rezoner1337[at]gmail.com
 
 <img src="http://i.imgur.com/XCCzd6f.png">
 
