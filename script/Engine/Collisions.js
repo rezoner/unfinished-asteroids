@@ -50,6 +50,6 @@ ENGINE.Collisions.prototype = {
         }
       }
     }
+  }
 
-
-  };
+};
