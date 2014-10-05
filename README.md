@@ -1,0 +1,3 @@
+This project is an attempt in utilizing learn-by-practice method which works well in real life. When you get a new job - usually you are thrown into the middle of a real project with real tasks to do.... and one month later - not only you've managed to solve the problem - you also claim that you have learned more than spending a year drowning in theoretical readings.
+
+So. Follow to the wiki where I've prepared a plot for you - our new employee. 
