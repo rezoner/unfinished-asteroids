@@ -1,6 +1,8 @@
+# Unfinished asteroids
+
 [Follow to the wiki](https://github.com/rezoner/unfinished-asteroids/wiki) where I've prepared a plot for you - our new employee.
 
-\-\-
+## Afterword
 
 I will try to get a new story every Saturday.
 
