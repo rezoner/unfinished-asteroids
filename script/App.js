@@ -1,11 +1,11 @@
 var app = playground({
 
-  width: 480,
-  height: 320,
+  width: 320,
+  height: 240,
 
-  scaleToFit: true,
+  scaleToFit: false,
 
-  smoothing: false,
+  smoothing: true,
 
   create: function() {
 

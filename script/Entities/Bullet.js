@@ -27,7 +27,7 @@ ENGINE.Bullet.prototype = {
         entity.hit(this);
         this.collection.remove(this);
       }
-      
+
     }
 
   },
@@ -50,7 +50,7 @@ ENGINE.Bullet.prototype = {
 
   render: function() {
 
-    app.layer.fillStyle("#fff").fillCircle(this.x, this.y, this.radius);
+    app.layer.fillStyle("#fff").fillRect(this.x - 4, this.y - 4, 8, 8);
 
   }
 

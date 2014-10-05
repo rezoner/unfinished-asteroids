@@ -105,7 +105,7 @@ app.game = {
         this.players[0].left = false;
         break;
       case "right":
-        this.players[0].right = false;
+        this.players[0].left = false  ;
         break;
       case "up":
         this.players[0].up = false;
