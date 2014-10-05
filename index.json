@@ -1,0 +1,17 @@
+{
+
+  "scripts": [
+  
+    "utils.js",
+
+    "Lib/CanvasQuery.js",
+    "Lib/Playground.js",
+
+    "Engine/Engine.js",
+    "Engine/Entities.js",
+
+    "App.js",
+    "App/Game.js"
+  ]
+
+}
