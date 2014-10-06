@@ -6,7 +6,7 @@
 
 I will try to get a new story every Saturday.
 
-For support consider [gratipay](http://gratipay.com/rezoner/) 
+For support consider [<img src="https://raw.githubusercontent.com/twolfson/gittip-badge/0.1.0/dist/gittip.png">](http://gratipay.com/rezoner/) 
 
 Let me know what you think - on [twitter](http://twitter.com/rezoner) or rezoner1337[at]gmail.com
 
