@@ -16,6 +16,11 @@ Let me know what you think - on [twitter](http://twitter.com/rezoner) or rezoner
 
 ## More languages
 
+[Javascript](https://github.com/rezoner/unfinished-asteroids)
+
+
+[LibGDX](https://github.com/AlexandreArpin/unfinished-asteroids-libgdx)
+
 If you are an experienced developer I encourage you to copy my graphics and stories and adopt them for your favorite language and/or stack. There is nothing wrong in having 10 examples in the same language for different frameworks/solutions.
 
 ## Motivation
